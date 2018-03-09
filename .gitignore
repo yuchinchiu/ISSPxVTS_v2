@@ -1,0 +1,12 @@
+# data folder containing *.log *.txt 
+data/v2_batches
+data/v2_csv
+analysis_py/*pkl
+analysis_py/*pyc
+analysis_py/.ipynb_checkpoints
+analysis_py/__pycache__
+*.csv
+.Rproj.user
+analysis_R/.Rda
+analysis_R/.Rhistory
+
